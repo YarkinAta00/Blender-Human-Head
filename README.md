@@ -1,2 +1,2 @@
 # Blender-Human-Head
- It is human head designed with Blender
+ It is a human head model designed with Blender
